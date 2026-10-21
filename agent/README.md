@@ -1,5 +1,9 @@
 # DemoBank Spec-Driven QA Agent
 
+**Walkthrough video:** https://drive.google.com/file/d/1PxTKRBGr_zWmoEVuAuORu7aB0zztxaq4/view?usp=sharing
+**QA audit report:** [audit-report/report.md](audit-report/report.md)
+Audit run against the kit's local DemoBank (test-website/LOCAL_SETUP.md); no hosted URL was provided.
+
 An autonomous QA agent that reads a product requirements document (PRD), exercises a live web application in a real browser, and reports, requirement by requirement, whether the application does what the specification says, with reproducible evidence for every verdict.
 
 Built for the CDF Agentic QA Hackathon against the DemoBank target.
